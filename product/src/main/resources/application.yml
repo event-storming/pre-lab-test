@@ -1,0 +1,12 @@
+server:
+  port: 8082
+
+api:
+  url:
+    order: http://localhost:8081
+    delivery: ${_DELIVERY_URL:http://localhost:8083}
+
+
+    
+
+    

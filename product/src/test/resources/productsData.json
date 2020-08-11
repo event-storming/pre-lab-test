@@ -1,0 +1,13 @@
+{
+  "_links": {
+    "product": {
+      "href": "http://localhost:8082/products/1"
+    },
+    "self": {
+      "href": "http://localhost:8082/products/1"
+    }
+  },
+  "name": "CARD",
+  "price": 1000,
+  "stock": 2
+}
